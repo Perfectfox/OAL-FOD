@@ -5,8 +5,16 @@ type: software
 version: 1.0.0
 date-released: 2026-09-02
 authors:
-  - family-names: "OAL-FOD Authors"
+  - given-names: "Guanyu"
+    family-names: "Jiang"
+  - given-names: "Zhixun"
+    family-names: "Su"
+  - given-names: "Junjie"
+    family-names: "Cao"
+  - given-names: "Junran"
+    family-names: "Zhang"
+  - given-names: "Zhenzhong"
+    family-names: "Bai"
 repository-code: "https://github.com/Perfectfox/OAL-FOD"
 url: "https://github.com/Perfectfox/OAL-FOD"
 license: MIT
-

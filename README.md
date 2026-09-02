@@ -90,5 +90,5 @@ pytest -q
 
 The source code is released under the [MIT License](LICENSE). PaveFOD is
 released separately under [CC BY-NC 4.0](DATASET_LICENSE.md). Citation metadata
-is available in [`CITATION.cff`](CITATION.cff); replace the temporary collective
-author entry with the final paper metadata when available.
+with the confirmed paper-author order is available in
+[`CITATION.cff`](CITATION.cff).
