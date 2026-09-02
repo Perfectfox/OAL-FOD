@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the OAL-FOD paper and software release."
+title: "OAL-FOD: Object-Aware Learning for Open-Set Foreign Object Debris Detection"
+type: software
+version: 1.0.0
+date-released: 2026-09-02
+authors:
+  - family-names: "OAL-FOD Authors"
+repository-code: "https://github.com/Perfectfox/OAL-FOD"
+url: "https://github.com/Perfectfox/OAL-FOD"
+license: MIT
+
